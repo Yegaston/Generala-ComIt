@@ -15,6 +15,8 @@ var app = new Framework7({
   panel: {
     swipe: 'left',
   },
+  // Theme force to ios
+  // theme: 'ios',
   // Add default routes
   routes: [
     {
